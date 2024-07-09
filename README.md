@@ -12,6 +12,6 @@ steps to reproduce:
 
 Now the button will still show "Loading..."
 
-A cached page is shown, no hook is ran and also serverside logic will not run.
+A cached page is shown while it is configured as a dynamic page, no hook is ran and also serverside logic will not run.
 
 When you refresh the page and try the button again and click on browser back button you won't see the "Loading..." state
